@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<juicebox gallerywidth="100%" galleryheight="100%" backgroundcolor="#222222" textcolor="rgba(255,255,255,1)" thumbframecolor="rgba(255,255,255,.5)" showopenbutton="TRUE" showexpandbutton="TRUE" showthumbsbutton="TRUE" usethumbdots="FALSE" usefullscreenexpand="FALSE">
+  <image imageURL="sites/default/files/styles/pp_juicebox_style_1600x900/public/2015-05-31%2012.50.49.jpg" thumbURL="sites/default/files/styles/media_thumbnail/public/2015-05-31%2012.50.49.jpg" linkURL="sites/default/files/2015-05-31%2012.50.49.jpg" linkTarget="_blank" juiceboxCompatible="1">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Cockatoo Island]]></caption>
+  </image>
+  <image imageURL="sites/default/files/styles/pp_juicebox_style_1600x900/public/2015-05-31%2014.54.29.jpg" thumbURL="sites/default/files/styles/media_thumbnail/public/2015-05-31%2014.54.29.jpg" linkURL="sites/default/files/2015-05-31%2014.54.29.jpg" linkTarget="_blank" juiceboxCompatible="1">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Cockatoo Island - the largest island in Sydney Harbour]]></caption>
+  </image>
+  <image imageURL="sites/default/files/styles/pp_juicebox_style_1600x900/public/2015-05-31%2013.48.10.jpg" thumbURL="sites/default/files/styles/media_thumbnail/public/2015-05-31%2013.48.10.jpg" linkURL="sites/default/files/2015-05-31%2013.48.10.jpg" linkTarget="_blank" juiceboxCompatible="1">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[The ferry station, venue and cafe]]></caption>
+  </image>
+  <image imageURL="sites/default/files/styles/pp_juicebox_style_1600x900/public/2015-05-31%2014.12.49.jpg" thumbURL="sites/default/files/styles/media_thumbnail/public/2015-05-31%2014.12.49.jpg" linkURL="sites/default/files/2015-05-31%2014.12.49.jpg" linkTarget="_blank" juiceboxCompatible="1">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[The fire pit lights up each night]]></caption>
+  </image>
+  <image imageURL="sites/default/files/styles/pp_juicebox_style_1600x900/public/2015-05-31%2013.46.38.jpg" thumbURL="sites/default/files/styles/media_thumbnail/public/2015-05-31%2013.46.38.jpg" linkURL="sites/default/files/2015-05-31%2013.46.38.jpg" linkTarget="_blank" juiceboxCompatible="1">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[The camping ground]]></caption>
+  </image>
+  <image imageURL="sites/default/files/styles/pp_juicebox_style_1600x900/public/2015-05-31%2012.53.19.jpg" thumbURL="sites/default/files/styles/media_thumbnail/public/2015-05-31%2012.53.19.jpg" linkURL="sites/default/files/2015-05-31%2012.53.19.jpg" linkTarget="_blank" juiceboxCompatible="1">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Cooking facilities in the camp ground]]></caption>
+  </image>
+</juicebox>
